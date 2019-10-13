@@ -16,9 +16,12 @@
 
 Примеры
 входные данные
+
 5
 1 2 3 4 5
+
 выходные данные
+
 4
 
 The script ```divisor.py``` can be divided  numbers.

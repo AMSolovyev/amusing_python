@@ -10,13 +10,16 @@ Sample Input 1:
 
 5 8 2 7 8 8 2 4
 8
+
 Sample Output 1:
 
 1 4 5
+
 Sample Input 2:
 
 5 8 2 7 8 8 2 4
 10
+
 Sample Output 2:
 
 Отсутствует
@@ -46,8 +49,6 @@ You can output like this:
 
 ```
  
-
-
 
 You can run the script to use on Linux python or python3 like this:
 
