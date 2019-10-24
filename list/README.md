@@ -35,23 +35,20 @@ You must use only if, elif, else.
  ```
 You can see:
 ```
+5 8 2 7 8 8 2 4
 8
-2
-14
 
 ```
 
 You can output like this:
 ```
-14
-2
-8
+1 4 5
 
 ```
  
 
 You can run the script to use on Linux python or python3 like this:
 
-``` python3 numbers.py ``` 
+``` python3 list.py ``` 
 
 On Windows you use similarly.
